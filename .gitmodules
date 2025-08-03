@@ -1,0 +1,3 @@
+[submodule "docker/mixxx"]
+	path = docker/mixxx
+	url = git@github.com:Paul-Goulpie/mixxx.git
